@@ -1,0 +1,31 @@
+portraits = {
+	lgs_brain_in_jar_01 = { entity = "lgs_brain_in_jar_entity_01" clothes_selector = "no texture" hair_selector = "no_texture" 
+		greeting_sound = "robot_molluscoid_greetings"
+		
+		character_textures = {
+			"gfx/models/portraits/lgsbraininjar/lgs_brain_in_jar_purple.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_brain_in_jar_blue.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_brain_in_jar_red.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_brain_in_jar_green.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_brain_in_jar_teal.dds"
+		}	
+	}
+	
+	lgs_fish_in_jar_01 = { entity = "lgs_fish_in_jar_entity_01" clothes_selector = "no texture" hair_selector = "no_texture" 
+		greeting_sound = "robot_molluscoid_greetings"
+		
+		character_textures = {
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_red_01.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_blue_01.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_green_01.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_teal_01.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_purple_01.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_teal_02.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_red_02.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_blue_02.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_green_02.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_teal_02.dds"
+			"gfx/models/portraits/lgsbraininjar/lgs_fish_in_jar_purple_02.dds"
+		}	
+	}
+}

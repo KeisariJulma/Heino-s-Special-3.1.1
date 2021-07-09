@@ -1,0 +1,28 @@
+﻿l_russian:
+
+ Fishbowl-Bot:0 "АкваРобот"
+ Fishbowl-Bot_plural:0 "АкваРоботы"
+ FishBot:0 "АкваРобот"
+ FishDroid:0 "АкваДроид"
+ FishSynth:0 "АкваСинтетик"
+ BrainBot: "Мозг-Робот"
+ BrainDroid: "Мозг-Андроид"
+ BrainSynth: "Мозг-Синтетик"
+
+ buildable_fishbot_pop_1:1 "$ROBOT_pop_SPECIES_1$"
+ buildable_fishbot_pop_1_desc:1 "$trait_robotic_1_desc$"
+ buildable_fishbot_pop_2:1 "$ROBOT_pop_SPECIES_2$"
+ buildable_fishbot_pop_2_desc:1 "$trait_robotic_2_desc$"
+ buildable_fishbot_pop_3:1 "$ROBOT_pop_SPECIES_3$"
+ buildable_fishbot_pop_3_desc:1 "$trait_robotic_3_desc$"
+ buildable_modded_fishbot_pop:0 "Шаблоны механического поселения"
+ buildable_modded_fishbot_pop_desc:0 "$trait_mechanical_desc$"
+
+ buildable_brainbot_pop_1:1 "$ROBOT_pop_SPECIES_1$"
+ buildable_brainbot_pop_1_desc:1 "$trait_robotic_1_desc$"
+ buildable_brainbot_pop_2:1 "$ROBOT_pop_SPECIES_2$"
+ buildable_brainbot_pop_2_desc:1 "$trait_robotic_2_desc$"
+ buildable_brainbot_pop_3:1 "$ROBOT_pop_SPECIES_3$"
+ buildable_brainbot_pop_3_desc:1 "$trait_robotic_3_desc$"
+ buildable_modded_brainbot_pop:0 "Шаблоны механического поселения"
+ buildable_modded_brainbot_pop_desc:0 "$trait_mechanical_desc$"

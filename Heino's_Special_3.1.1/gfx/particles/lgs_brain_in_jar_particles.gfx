@@ -1,0 +1,15 @@
+objectTypes = {
+	pdxparticle = {
+		name = "lgs_fish_in_jar_head_effect"
+		type = "lgs_fish_in_jar_head_effect"
+		
+		scale = 1.0
+	}
+
+	pdxparticle = {
+		name = "lgs_brain_in_jar_head_effect"
+		type = "lgs_brain_in_jar_head_effect"
+		
+		scale = 1.0
+	}
+}

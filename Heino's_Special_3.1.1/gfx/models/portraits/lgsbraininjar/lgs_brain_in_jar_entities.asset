@@ -1,0 +1,38 @@
+entity = {
+	name = "lgs_brain_in_jar_entity_01"
+	pdxmesh = "portrait_molluscoid_synthetic_dawn_01_mesh"
+	
+	default_state = "idle"
+	state = { name = "idle"       animation = "idle"      animation_blend_time = 0 chance = 3.0 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_brain_in_jar_head_effect" keep_particle = yes }
+	}
+	state = { name = "idle"       animation = "idle2"     animation_blend_time = 0 chance = 1.0 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_brain_in_jar_head_effect" keep_particle = yes }
+	}
+	state = { name = "idle"       animation = "idle3"     animation_blend_time = 0 chance = 0.7 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_brain_in_jar_head_effect" keep_particle = yes }
+	}
+	scale = 0.9
+}
+
+entity = {
+	name = "lgs_fish_in_jar_entity_01"
+	pdxmesh = "portrait_molluscoid_synthetic_dawn_01_mesh"
+	
+	default_state = "idle"
+	state = { name = "idle"       animation = "idle"      animation_blend_time = 0 chance = 3.0 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_fish_in_jar_head_effect" keep_particle = yes }
+	}
+	state = { name = "idle"       animation = "idle2"     animation_blend_time = 0 chance = 1.0 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_fish_in_jar_head_effect" keep_particle = yes }
+	}
+	state = { name = "idle"       animation = "idle3"     animation_blend_time = 0 chance = 0.7 looping = no next_state = idle 
+		start_event = { node = "head_effect" particle = "lgs_fish_in_jar_head_effect" keep_particle = yes }
+	}
+	scale = 0.9
+}
+
+animation = {
+	name = "molluscoid_synthetic_dawn_01_idle_animation"
+	file = "molluscoid_synthetic_dawn_01_portrait_idle.anim"
+}
